@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Net Name : Old Net Name=NetP5_2 New Net Name=NetP6_2
+Added Member To Class: ClassName=Sheet1 Member=Component P6 POWER

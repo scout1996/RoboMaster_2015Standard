@@ -1,0 +1,5 @@
+Change Component Comment : Designator=LED0 Old Comment=LED1 New Comment=LED0
+Change Component Comment : Designator=LED1 Old Comment=LED2 New Comment=LED1
+Change Component Designator: OldDesignator=- NewDesignator=P6
+Change Component Designator: OldDesignator=LED0 NewDesignator=1
+Change Component Designator: OldDesignator=LED1 NewDesignator=2

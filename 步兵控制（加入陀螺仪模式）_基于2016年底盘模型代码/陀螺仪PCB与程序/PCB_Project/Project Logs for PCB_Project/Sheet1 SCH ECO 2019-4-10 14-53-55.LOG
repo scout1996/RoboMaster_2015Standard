@@ -1,0 +1,9 @@
+Remove Pin=M_A1-M+ From Net=AO1
+Remove Pin=M_A1-M- From Net=AO2
+Remove Pin=M_B1-M+ From Net=BO1
+Remove Pin=M_B1-M- From Net=BO2
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P6 NewDesignator=P5

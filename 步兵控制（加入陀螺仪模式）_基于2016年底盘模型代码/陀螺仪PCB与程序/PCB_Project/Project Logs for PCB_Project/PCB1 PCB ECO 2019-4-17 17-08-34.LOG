@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=U1-8
+Change Component Comment : Designator=C6 Old Comment=2.2nf New Comment=10nf
+Change Component Comment : Designator=C2 Old Comment=104 New Comment=22uf
+Change Component Comment : Designator=C4 Old Comment=220uF New Comment=22uF
+Added Component: Designator=C16(*0805)
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VCC3.3 Pin=C16-2
+Added Member To Class: ClassName=Sheet1 Member=Component C16 10nf
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10K

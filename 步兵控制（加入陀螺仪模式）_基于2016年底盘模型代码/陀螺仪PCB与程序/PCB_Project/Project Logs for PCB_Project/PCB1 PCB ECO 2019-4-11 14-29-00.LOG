@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=KEY3 Pin=U3-25
+Removed Pin From Net: NetName=KEY4 Pin=U3-26
+Removed Pin From Net: NetName=KEY5 Pin=U3-27
+Removed Pin From Net: NetName=KEY6 Pin=U3-28
+Removed Pin From Net: NetName=KEY1 Pin=U3-32
+Removed Pin From Net: NetName=KEY2 Pin=U3-33
+Added Pin To Net: NetName=KEY1 Pin=U3-38
+Added Pin To Net: NetName=KEY2 Pin=U3-39
+Added Pin To Net: NetName=KEY3 Pin=U3-40
+Added Pin To Net: NetName=KEY4 Pin=U3-41
+Added Pin To Net: NetName=KEY5 Pin=U3-45
+Added Pin To Net: NetName=KEY6 Pin=U3-46

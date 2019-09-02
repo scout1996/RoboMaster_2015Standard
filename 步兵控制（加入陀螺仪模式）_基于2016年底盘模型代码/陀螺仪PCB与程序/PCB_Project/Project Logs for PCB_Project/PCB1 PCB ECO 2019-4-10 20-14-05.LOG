@@ -1,0 +1,3 @@
+Added Component: Designator=Y1(*XTAL)
+Added Pin To Net: NetName=NetC11_1 Pin=Y1-1
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 8MHz

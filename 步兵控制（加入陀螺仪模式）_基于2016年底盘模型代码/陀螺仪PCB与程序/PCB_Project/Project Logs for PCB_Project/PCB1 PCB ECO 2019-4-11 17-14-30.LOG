@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AIN1 Pin=U3-14
+Removed Pin From Net: NetName=AIN2 Pin=U3-15
+Added Pin To Net: NetName=AIN2 Pin=U3-14
+Added Pin To Net: NetName=AIN1 Pin=U3-15
+Added Member To Class: ClassName=Sheet1 Member=Component C6 2.2nf
+Added Member To Class: ClassName=Sheet1 Member=Component U4 TB6612FNG,C,8,EL

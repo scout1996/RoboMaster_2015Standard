@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=AO2 Pin=C8-1
+Removed Pin From Net: NetName=BO1 Pin=C10-2
+Removed Pin From Net: NetName=SWCLK Pin=P1-2
+Removed Pin From Net: NetName=SWDIO Pin=P1-3
+Change Component Comment : Designator=C8 Old Comment=10uf New Comment=104
+Change Component Comment : Designator=C10 Old Comment=10uf New Comment=104
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=SWDIO Pin=P1-2
+Added Pin To Net: NetName=SWCLK Pin=P1-3
+Added Pin To Net: NetName=GND Pin=RESET-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetC11_1 Pin=U3-6
+Added Pin To Net: NetName=NetC7_2 Pin=U3-7
+Added Pin To Net: NetName=UART2_TX Pin=U3-12
+Added Pin To Net: NetName=UART2_RX Pin=U3-13
+Added Pin To Net: NetName=LED0 Pin=U3-18
+Added Pin To Net: NetName=LED1 Pin=U3-19
+Added Pin To Net: NetName=BOOT1 Pin=U3-20
+Added Pin To Net: NetName=KEY3 Pin=U3-25
+Added Pin To Net: NetName=KEY4 Pin=U3-26
+Added Pin To Net: NetName=KEY5 Pin=U3-27
+Added Pin To Net: NetName=KEY6 Pin=U3-28
+Added Pin To Net: NetName=UART1_TX Pin=U3-30
+Added Pin To Net: NetName=UART1_RX Pin=U3-31
+Added Pin To Net: NetName=KEY1 Pin=U3-32
+Added Pin To Net: NetName=KEY2 Pin=U3-33
+Added Pin To Net: NetName=SWDIO Pin=U3-34
+Added Pin To Net: NetName=SWCLK Pin=U3-37
+Added Pin To Net: NetName=BOOT1 Pin=U3-44
+Added Pin To Net: NetName=VCC3.3 Pin=U3-48
+Added Pin To Net: NetName=VCC3.3 Pin=U4-20
+Added Pin To Net: NetName=AIN1 Pin=U3-14
+Added Pin To Net: NetName=AIN1 Pin=U4-21
+Added Net: Name=AIN1
+Added Pin To Net: NetName=AIN2 Pin=U3-15
+Added Pin To Net: NetName=AIN2 Pin=U4-22
+Added Net: Name=AIN2
+Added Pin To Net: NetName=AO1 Pin=U4-1
+Added Pin To Net: NetName=AO1 Pin=U4-2
+Added Net: Name=AO1
+Added Pin To Net: NetName=BIN1 Pin=U3-16
+Added Pin To Net: NetName=BIN1 Pin=U4-17
+Added Net: Name=BIN1
+Added Pin To Net: NetName=BIN2 Pin=U3-17
+Added Pin To Net: NetName=BIN2 Pin=U4-16
+Added Net: Name=BIN2
+Added Pin To Net: NetName=BO2 Pin=C10-1
+Added Pin To Net: NetName=BO2 Pin=U4-8
+Added Net: Name=BO2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-10
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U1-20
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U3-5
+Added Pin To Net: NetName=NetC9_1 Pin=Y1-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=PWMA Pin=U3-10
+Added Pin To Net: NetName=PWMA Pin=U4-23
+Added Net: Name=PWMA
+Added Pin To Net: NetName=PWMB Pin=U3-11
+Added Pin To Net: NetName=PWMB Pin=U4-15
+Added Net: Name=PWMB
+Added Pin To Net: NetName=SCL_1 Pin=R5-1
+Added Pin To Net: NetName=SCL_1 Pin=U1-23
+Added Pin To Net: NetName=SCL_1 Pin=U3-42
+Added Net: Name=SCL_1
+Added Pin To Net: NetName=SCL_2 Pin=P2-3
+Added Pin To Net: NetName=SCL_2 Pin=U3-21
+Added Net: Name=SCL_2
+Added Pin To Net: NetName=SDA_1 Pin=R6-1
+Added Pin To Net: NetName=SDA_1 Pin=U1-24
+Added Pin To Net: NetName=SDA_1 Pin=U3-43
+Added Net: Name=SDA_1
+Added Pin To Net: NetName=SDA_2 Pin=P2-2
+Added Pin To Net: NetName=SDA_2 Pin=U3-22
+Added Net: Name=SDA_2
+Added Pin To Net: NetName=STBY Pin=U3-29
+Added Pin To Net: NetName=STBY Pin=U4-19
+Added Net: Name=STBY
